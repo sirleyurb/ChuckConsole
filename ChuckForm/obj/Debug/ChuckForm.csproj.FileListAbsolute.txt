@@ -1,0 +1,14 @@
+E:\Random\ChuckConsole\ChuckForm\bin\Debug\ChuckForm.exe.config
+E:\Random\ChuckConsole\ChuckForm\bin\Debug\ChuckForm.exe
+E:\Random\ChuckConsole\ChuckForm\bin\Debug\ChuckForm.pdb
+E:\Random\ChuckConsole\ChuckForm\bin\Debug\Newtonsoft.Json.dll
+E:\Random\ChuckConsole\ChuckForm\bin\Debug\Newtonsoft.Json.xml
+E:\Random\ChuckConsole\ChuckForm\obj\Debug\ChuckForm.csproj.AssemblyReference.cache
+E:\Random\ChuckConsole\ChuckForm\obj\Debug\ChuckForm.csproj.SuggestedBindingRedirects.cache
+E:\Random\ChuckConsole\ChuckForm\obj\Debug\ChuckForm.Form1.resources
+E:\Random\ChuckConsole\ChuckForm\obj\Debug\ChuckForm.Properties.Resources.resources
+E:\Random\ChuckConsole\ChuckForm\obj\Debug\ChuckForm.csproj.GenerateResource.cache
+E:\Random\ChuckConsole\ChuckForm\obj\Debug\ChuckForm.csproj.CoreCompileInputs.cache
+E:\Random\ChuckConsole\ChuckForm\obj\Debug\ChuckForm.csproj.CopyComplete
+E:\Random\ChuckConsole\ChuckForm\obj\Debug\ChuckForm.exe
+E:\Random\ChuckConsole\ChuckForm\obj\Debug\ChuckForm.pdb

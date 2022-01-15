@@ -1,0 +1,17 @@
+E:\Random\ChuckConsole\ChuckConsole\bin\Debug\net6.0\ChuckConsole.exe
+E:\Random\ChuckConsole\ChuckConsole\bin\Debug\net6.0\ChuckConsole.deps.json
+E:\Random\ChuckConsole\ChuckConsole\bin\Debug\net6.0\ChuckConsole.runtimeconfig.json
+E:\Random\ChuckConsole\ChuckConsole\bin\Debug\net6.0\ChuckConsole.dll
+E:\Random\ChuckConsole\ChuckConsole\bin\Debug\net6.0\ref\ChuckConsole.dll
+E:\Random\ChuckConsole\ChuckConsole\bin\Debug\net6.0\ChuckConsole.pdb
+E:\Random\ChuckConsole\ChuckConsole\obj\Debug\net6.0\ChuckConsole.csproj.AssemblyReference.cache
+E:\Random\ChuckConsole\ChuckConsole\obj\Debug\net6.0\ChuckConsole.GeneratedMSBuildEditorConfig.editorconfig
+E:\Random\ChuckConsole\ChuckConsole\obj\Debug\net6.0\ChuckConsole.AssemblyInfoInputs.cache
+E:\Random\ChuckConsole\ChuckConsole\obj\Debug\net6.0\ChuckConsole.AssemblyInfo.cs
+E:\Random\ChuckConsole\ChuckConsole\obj\Debug\net6.0\ChuckConsole.csproj.CoreCompileInputs.cache
+E:\Random\ChuckConsole\ChuckConsole\obj\Debug\net6.0\ChuckConsole.dll
+E:\Random\ChuckConsole\ChuckConsole\obj\Debug\net6.0\ref\ChuckConsole.dll
+E:\Random\ChuckConsole\ChuckConsole\obj\Debug\net6.0\ChuckConsole.pdb
+E:\Random\ChuckConsole\ChuckConsole\obj\Debug\net6.0\ChuckConsole.genruntimeconfig.cache
+E:\Random\ChuckConsole\ChuckConsole\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\Random\ChuckConsole\ChuckConsole\obj\Debug\net6.0\ChuckConsole.csproj.CopyComplete

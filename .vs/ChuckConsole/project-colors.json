@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3868c5d6-1052-4d93-a53a-3ae5ba487f74": {
+      "ProjectGuid": "3868c5d6-1052-4d93-a53a-3ae5ba487f74",
+      "DisplayName": "ChuckConsole",
+      "ColorIndex": 0
+    },
+    "afdf18f8-0179-40d2-91a8-0d73ec04ab1c": {
+      "ProjectGuid": "afdf18f8-0179-40d2-91a8-0d73ec04ab1c",
+      "DisplayName": "ChuckForm",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
